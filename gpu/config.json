@@ -1,0 +1,5 @@
+{
+  "storage": 100,
+  "instance-type": "g6.2xlarge",
+  "architecture": "amd64"
+}
