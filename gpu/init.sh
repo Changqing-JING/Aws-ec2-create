@@ -8,4 +8,4 @@ sudo apt-get install -y gcc g++ make cmake
 sudo apt-get install -y cuda-drivers
 sudo apt-get install -y cuda-toolkit
 
-echo 'export PATH=/usr/local/cuda/bin:$PATH' >> ~/.bashrc
+echo 'export PATH=/usr/local/cuda/bin:$PATH' >> /home/ubuntu/.bashrc
