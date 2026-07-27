@@ -4,6 +4,7 @@ Install deps
 python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
+sudo snap install aws-cli
 aws sso login
 ```
 
